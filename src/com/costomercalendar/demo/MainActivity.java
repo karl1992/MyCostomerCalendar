@@ -26,7 +26,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	private LinearLayout linear_next_month;
 	private TextView txt_date;
 	private List<Date> listdate=new ArrayList<Date>();
-	String[] strArray=new String[]{"2014-06-16","2014-06-19","2014-06-20","2014-06-27"};
+	String[] strArray=new String[]{"2014-06-28","2014-06-19","2014-06-20","2014-06-27"};
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
