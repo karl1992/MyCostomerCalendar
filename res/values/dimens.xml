@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="padding_one">2.0dp</dimen>
+    <dimen name="padding_two">5.0dp</dimen>
+    <dimen name="padding_three">10.0dp</dimen>
+    <dimen name="padding_four">15.0dp</dimen>
+    <dimen name="padding_five">20.0dp</dimen>
+    <dimen name="padding_six">25.0dp</dimen>
+    <dimen name="padding_seven">30dp</dimen>
+    <dimen name="padding_eight">50dp</dimen>
+    <dimen name="padding_nine">6dp</dimen>
+    <!-- fond size -->
+    <dimen name="font_size_one">20sp</dimen>
+    <dimen name="font_size_two">16sp</dimen>
+    <dimen name="font_size_three">24sp</dimen>
+    <dimen name="font_size_four">24sp</dimen>
+    <dimen name="font_size_five">28sp</dimen>
+    <dimen name="font_size_six">12sp</dimen>
+    <dimen name="userinfo_textsize">18dp</dimen>
+    <dimen name="userinfo_textsize_get">16dp</dimen>
+    <dimen name="friend_list_top_size">16dp</dimen>
+
+    <!-- login -->
+    <dimen name="login_headicon_above_h">49.0dip</dimen>
+    <dimen name="pie_chart_bottom_text_size">22.0dip</dimen>
+    <dimen name="pie_chart_inner_ring_radius">145.0dip</dimen>
+    <dimen name="pie_chart_outer_ring_radius">170.0dip</dimen>
+    <dimen name="pie_chart_size">300.0dip</dimen>
+    <dimen name="pie_chart_text_margin_top">-12.0dip</dimen>
+    <dimen name="pie_chart_top_text_size">58.0dip</dimen>
+    <dimen name="inner_pie_chart_radius">210.0dip</dimen>
+
+    <!-- student cartoon head icon -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="avatar_ctrl_button_width">130.0dip</dimen>
+    <dimen name="avatar_ctrl_button_height">80.0dip</dimen>
+    <dimen name="avatar_ctrl_button_padding">16.0dip</dimen>
+    <dimen name="avatar_switcher_button_width">40.0dip</dimen>
+    <dimen name="avatar_switcher_row_height">48.0dip</dimen>
+    <dimen name="avatar_switcher_row_margin">68.0dip</dimen>
+    <dimen name="avatar_image_size">180.0dip</dimen>
+
+</resources>
